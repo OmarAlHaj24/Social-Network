@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1626698659 source:d:\programming\c++\main\workspace\main.cpp
+	<iostream>
+	<fstream>
+	"LinkedList.cpp"
+	"User.h"
+
+1623918396 source:d:\programming\c++\main\workspace\bigdecimalint.cpp
+	"BigDecimalInt.h"
+
+1623918144 d:\programming\c++\main\workspace\bigdecimalint.h
+	<bits/stdc++.h>
+
+1621884981 source:d:\programming\c++\main\workspace\calculator_for_fractions.cpp
+	"Calculator_for_fractions.h"
+
+1621884899 d:\programming\c++\main\workspace\calculator_for_fractions.h
+	<iostream>
+
+1621885265 d:\programming\c++\main\workspace\fractioncalculator.h
+	<iostream>
+	"Fraction.h"
+
+1621885526 d:\programming\c++\main\workspace\fraction.h
+	<iostream>
+
+1621885513 source:d:\programming\c++\main\workspace\fraction.cpp
+	"Fraction.h"
+
+1626353468 source:d:\programming\c++\main\workspace\linkedlist.cpp
+	<iostream>
+	"User.h"
+
+1626353468 d:\programming\c++\main\workspace\linkedlist.cpp
+	<iostream>
+	"User.h"
+
+1626698648 source:d:\programming\c++\main\workspace\user.cpp
+	"User.h"
+	<iostream>
+
+1626698640 d:\programming\c++\main\workspace\user.h
+	<iostream>
+	"Treap.cpp"
+	"FriendLink.cpp"
+
+1626387315 d:\programming\c++\main\workspace\treap.cpp
+	<iostream>
+	<random>
+
+1626387315 source:d:\programming\c++\main\workspace\treap.cpp
+	<iostream>
+	<random>
+
+1626698601 source:d:\programming\c++\main\workspace\friendlink.cpp
+	<iostream>
+	<string.h>
+
+1626698601 d:\programming\c++\main\workspace\friendlink.cpp
+	<iostream>
+	<string.h>
+
